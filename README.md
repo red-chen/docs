@@ -1,4 +1,4 @@
-# 文章列表
+# Docs
 
 ## Apllication DebugInfo
 - [DebugInfo] (files/debug_info.md)
