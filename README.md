@@ -5,5 +5,6 @@
 - [GDB] (files/gdb.md)
 
 ## Storage Standard
+- [SSTable] (files/sstable.md)
 
 ## Paper
