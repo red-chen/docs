@@ -1,10 +1,6 @@
 # Docs
 
-## Apllication DebugInfo
-- [DebugInfo] (files/debug_info.md)
-- [GDB] (files/gdb.md)
-
-## Storage Standard
-- [SSTable] (files/sstable.md)
+## Blog
+- [InfluxDB: 安装、使用与模型介绍（一）] (blog/influxdb_install_use_and_introduce.md)
 
 ## Paper
