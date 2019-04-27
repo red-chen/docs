@@ -1,0 +1,8 @@
+1    0.0                  bsdi.1057 > svr4.echo: P 1:10(9) ack
+2    0.006406   ( 0.0064) svr4.echo > bsdi.1057: P 1:10(9) ack 10
+3    0.176922   ( 0.1705) bsdi.1057 > svr4.echo: . ack 10
+
+4 7200.067151 (7199.8902) arp who-has svr4 tell bsdi
+5 7200.069751    (0.0026) arp reply svr4 is-at 0:0:c0:c2:9b:26
+6 7200.070468    (0.0007) bsdi.1057 > svr4.echo: . ack 10
+7 7200.075050    (0.0046) svr4.echo > bsdi.1057: R 1135563275:1135563275(0)

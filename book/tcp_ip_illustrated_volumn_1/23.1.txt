@@ -1,0 +1,24 @@
+1      0.0                  bsdi.1055 > svr4.echo : P 1:14(13) ack 1
+2      0.006105   ( 0.0061) svr4.echo > bsdi.1055 : P 1:14(13) ack 14
+3      0.093140   ( 0.0870) bsdi.1055 > svr4.echo : . ack 14
+
+4   7199.972793 (7199.8797) arp who-has svr4 tell bsdi
+5   7199.974878    (0.0021) arp reply svr4 is-at 0:0:c0:c2:9b:26
+6   7199.975741    (0.0009) bsdi.1055 > svr4.echo : . ack 14
+7   7199.979843    (0.0041) svr4.echo > bsdi.1055 : . ack 14
+
+8  14400.134330 (7200.1545) arp who-has svr4 tell bsdi
+9  14400.136452    (0.0021) arp reply svr4 is-at 0:0:c0:c2:9b:26
+10 14400.137391    (0.0009) bsdi.1055 > svr4.echo : . ack 14
+11 14400.141408    (0.0040) svr4.echo > bsdi.1055 : . ack 14
+
+12 21600.318309 (7200.1769) arp who-has svr4 tell bsdi
+13 21675.320373   (75.0021) arp who-has svr4 tell bsdi
+14 21750.322407   (75.0020) arp who-has svr4 tell bsdi
+15 21825.324460   (75.0021) arp who-has svr4 tell bsdi
+16 21900.436749   (75.1123) arp who-has svr4 tell bsdi
+17 21975.438787   (75.0020) arp who-has svr4 tell bsdi
+18 22050.440842   (75.0021) arp who-has svr4 tell bsdi
+19 22125.432883   (74.9920) arp who-has svr4 tell bsdi
+20 22200.434697   (75.0018) arp who-has svr4 tell bsdi
+21 22275.436788   (75.0021) arp who-has svr4 tell bsdi
