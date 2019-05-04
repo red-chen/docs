@@ -120,7 +120,7 @@ select * from "CPU" where role = 'FrontServer'
 select * from "CPU" where "load1" > 20
 ```
 
-OK, 今天我们初步对InfluxDB有一个初步的了解，InfluxDB依托于InfluxQL，提供一个强大且易读的查询方式，下一篇我们详细介绍一下InfluxQL的语法和使用方法。
+OK, 今天我们初步对InfluxDB有一个初步的了解，后面我们继续讲解InfluxDB的高级功能。
 
 ## 引用
 
